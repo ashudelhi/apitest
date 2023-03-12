@@ -6,7 +6,7 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "Who is Ram?",
-"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbook&psig=AOvVaw3IGv0E0W0hGmbWm95FUIN0&ust=1678686447739000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiLt8TY1f0CFQAAAAAdAAAAABAD",
+"image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
 "correct_answer": "Skin",
 "incorrect_answers": [
 "Heart",
@@ -19,7 +19,7 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "Are you a hero ?",
-"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Findia&psig=AOvVaw3IGv0E0W0hGmbWm95FUIN0&ust=1678686447739000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiLt8TY1f0CFQAAAAAdAAAAABAd",
+"image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
 "correct_answer": "Tango",
 "incorrect_answers": [
 "Target",
