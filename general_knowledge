@@ -45,7 +45,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "Five dollars is worth how many nickles?",
-"image": "",
 "correct_answer": "100",
 "incorrect_answers": [
 "50",
