@@ -6,12 +6,12 @@
       "question": "Who is Ram?",
       "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
       "options": [
-        {"text": "Skin", "correct": true},
-        {"text": "Heart", "correct": false},
-        {"text": "Large Instetine", "correct": false},
-        {"text": "Liver", "correct": false}
+        {"text": "God", "correct": false},
+        {"text": "Prophet", "correct": false},
+        {"text": "Mythical character", "correct": false},
+        {"text": "Fictional character", "correct": true}
       ]
-      },
+    },
     {
       "category": "General Knowledge",
       "type": "multiple",
