@@ -1,17 +1,27 @@
-{
-"data":
-[
-{
-"id": 1,
-"userName": "Aj"
-},
-{
-"id": 2,
-"userName": "Dj"
-},
-{
-"id": 2,
-"userName": "Pj"
-}
+[  
+{    "id": 9,    "name": "General Knowledge",    "icon": "earthAsia"  },  
+{    "id": 10,    "name": "Books",    "icon": "bookOpen"  },  
+{    "id": 11,    "name": "Film",    "icon": "video"  },  
+{    "id": 12,    "name": "Music",    "icon": "music"  },  
+{    "id": 13,    "name": "Musicals & Theatres",    "icon": "masksTheater"  },  
+{    "id": 14,    "name": "Television",    "icon": "tv"  },  
+{    "id": 15,    "name": "Video Games",    "icon": "gamepad"  },  
+{    "id": 16,    "name": "Board Games",    "icon": "chessBoard"  },  
+{    "id": 17,    "name": "Science & Nature",    "icon": "microscope"  },  
+{    "id": 18,    "name": "Computer",    "icon": "laptopCode"  },  
+{    "id": 19,    "name": "Maths",    "icon": "arrowDown19"  },  
+{    "id": 20,    "name": "Mythology", "icon": "dog"  },  
+{    "id": 21,    "name": "Sports",    "icon": "football"  },  
+{    "id": 22,    "name": "Geography",    "icon": "mountain"  },  
+{    "id": 23,    "name": "History",    "icon": "monument"  },  
+{    "id": 24,    "name": "Politics", "icon": "dog"  },  
+{    "id": 25,    "name": "Art",    "icon": "paintbrush"  },  
+{    "id": 26,    "name": "Celebrities", "icon": "dog"  },  
+{    "id": 27,    "name": "Animals",    "icon": "dog"  },  
+{    "id": 28,    "name": "Vehicles",    "icon": "carRear"  },  
+{    "id": 29,    "name": "Comics", "icon": "dog"  },  
+{    "id": 30,    "name": "Gadgets",    "icon": "mobileScreenButton"  },  
+{    "id": 31,    "name": "Japanese Anime & Manga"," icon": "dog"  },  
+{    "id": 32,    "name": "Cartoon & Animation", "icon": "dog"  }
 ]
-}
+
