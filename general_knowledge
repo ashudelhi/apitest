@@ -6,7 +6,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "Who is Ram?",
-"image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
 "correct_answer": "Skin",
 "incorrect_answers": [
 "Heart",
@@ -19,7 +18,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "Are you a hero ?",
-"image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
 "correct_answer": "Tango",
 "incorrect_answers": [
 "Target",
@@ -32,7 +30,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "How many colors are there in a rainbow?",
-"image": "",
 "correct_answer": "7",
 "incorrect_answers": [
 "8",
@@ -57,7 +54,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "What was the first ever London Underground line to be built?",
-"image": "",
 "correct_answer": "Metropolitan Line",
 "incorrect_answers": [
 "Circle Line",
@@ -70,7 +66,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "What zodiac sign is represented by a pair of scales?",
-"image": "",
 "correct_answer": "Libra",
 "incorrect_answers": [
 "Aries",
@@ -83,7 +78,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
-"image": "",
 "correct_answer": "Plum",
 "incorrect_answers": [
 "Apple",
@@ -109,7 +103,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "How many furlongs are there in a mile?",
-"image": "",
 "correct_answer": "Eight",
 "incorrect_answers": [
 "Two",
@@ -122,7 +115,6 @@
 "type": "multiple",
 "difficulty": "easy",
 "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
-"image": "",
 "correct_answer": "Model",
 "incorrect_answers": [
 "Professor",
