@@ -2,67 +2,67 @@
     {        
         "id": 9,        
         "name": "General Knowledge",        
-        "icon": "FontAwesomeIcons.earthAsia"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 10,        
         "name": "Books",        
-        "icon": "FontAwesomeIcons.bookOpen"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 11,        
         "name": "Film",        
-        "icon": "FontAwesomeIcons.film"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"   
         },    
     {        
         "id": 12,        
         "name": "Music",        
-        "icon": "FontAwesomeIcons.music"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 13,        
         "name": "Musicals & Theatres",        
-        "icon": "FontAwesomeIcons.theaterMasks"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 14,        
         "name": "Television",        
-        "icon": "FontAwesomeIcons.tv"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 15,        
         "name": "Video Games",        
-        "icon": "FontAwesomeIcons.gamepad"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 16,        
         "name": "Board Games",        
-        "icon": "FontAwesomeIcons.chessBoard"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 17,        
         "name": "Science & Nature",        
-        "icon": "FontAwesomeIcons.microscope"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"   
         },   
     {        
         "id": 18,        
         "name": "Computer",        
-        "icon": "FontAwesomeIcons.laptop"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"   
         },    
     {       
         "id": 19,        
         "name": "Maths",        
-        "icon": "FontAwesomeIcons.calculator"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 20,        
         "name": "Mythology",        
-        "icon": "FontAwesomeIcons.greek"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"    
         },    
     {        
         "id": 21,        
         "name": "Sports",        
-        "icon": "FontAwesomeIcons.footballBall"    
+        "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg"   
         }
     ]
 
