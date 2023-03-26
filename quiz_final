@@ -1,0 +1,113 @@
+{
+  "questions": [
+    {
+      "year": "UGC Net Sanskrit Traditional-2005",
+      "category": "General Knowledge",
+      "type": "multiple",
+      "question": "Who is Ram?",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+      "options": [
+        {"text": "Skin", "correct": true},
+        {"text": "Heart", "correct": false},
+        {"text": "Large Instetine", "correct": false},
+        {"text": "Liver", "correct": false}
+      ]
+      },
+      {
+        "year": "UGC Net Sanskrit Traditional-2005",
+        "category": "Sports",
+        "type": "multiple",
+        "question": "What is the largest country in the world?",
+        "options": [
+          {"text": "Russia", "correct": true},
+          {"text": "China", "correct": false},
+          {"text": "USA", "correct": false},
+          {"text": "India", "correct": false}
+        ]
+      },
+    {
+      "year": "UGC Net Sanskrit Traditional-2006",
+      "category": "General Knowledge",
+      "type": "multiple",
+      "question": "What is the capital of France?",
+      "options": [
+        {"text": "London", "correct": false},
+        {"text": "Paris", "correct": true},
+        {"text": "Berlin", "correct": false},
+        {"text": "Madrid", "correct": false}
+      ]
+    },
+    {
+      "year": "UGC Net Sanskrit Traditional-2006",
+      "category": "Sports",
+      "type": "multiple",
+      "question": "What is the largest country in the world?",
+      "options": [
+        {"text": "Russia", "correct": true},
+        {"text": "China", "correct": false},
+        {"text": "USA", "correct": false},
+        {"text": "India", "correct": false}
+      ]
+    },
+    {
+      "year": "UGC Net Sanskrit Traditional-2007",
+      "category": "Sports",
+      "type": "multiple",
+      "question": "What is the largest country in the world?",
+      "options": [
+        {"text": "Russia", "correct": true},
+        {"text": "China", "correct": false},
+        {"text": "USA", "correct": false},
+        {"text": "India", "correct": false}
+      ]
+    },
+    {
+      "year": "UGC Net Sanskrit Traditional-2007",
+      "category": "General Knowledge",
+      "type": "multiple",
+      "question": "Who is Ram?",
+      "options": [
+        {"text": "Skin", "correct": true},
+        {"text": "Heart", "correct": false},
+        {"text": "Large Instetine", "correct": false},
+        {"text": "Liver", "correct": false}
+      ]
+      },
+    {
+      "year": "UGC Net Sanskrit Traditional-2021",
+      "category": "Sports",
+      "type": "multiple",
+      "question": "What is the largest country in the world?",
+      "options": [
+        {"text": "Russia", "correct": true},
+        {"text": "China", "correct": false},
+        {"text": "USA", "correct": false},
+        {"text": "India", "correct": false}
+      ]
+    },
+    {
+      "year": "UGC Net Sanskrit Traditional-2021",
+      "category": "Sports",
+      "type": "table with multiple",
+      "text": "Please fill in the following table:",
+      "table": {
+        "columns": [
+          "Item",
+          "Quantity"
+        ],
+        "rows": [
+          ["Apples", 5],
+          ["Bananas", 2],
+          ["Oranges", 3],
+          ["Grapes", 6]
+        ],
+        "options": [
+          {"text": "A=1,  B=2,  C=3,  D=4", "correct": true},
+          {"text": "A=2,  B=1,  C=4,  D=3", "correct": false},
+          {"text": "A=3,  B=4,  C=2,  D=1", "correct": false},
+          {"text": "A=4,  B=3,  C=1,  D=2", "correct": false}
+        ]
+      }
+    }
+  ]
+}
