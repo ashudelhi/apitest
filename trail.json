@@ -1,7 +1,7 @@
 {
 "results": [
 {
-"category": "General Knowledge",
+"category": "Sports",
 "type": "multiple",
 "difficulty": "easy",
 "question": "What is the nickname of the US state of California?",
@@ -13,7 +13,7 @@
 ]
 },
 {
-"category": "General Knowledge",
+"category": "Sports",
 "type": "multiple",
 "difficulty": "easy",
 "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
@@ -37,7 +37,7 @@
 ]
 },
 {
-"category": "General Knowledge",
+"category": "Maths",
 "type": "multiple",
 "difficulty": "easy",
 "question": "Which of the following card games revolves around numbers and basic math?",
@@ -49,7 +49,7 @@
 ]
 },
 {
-"category": "General Knowledge",
+"category": "Maths",
 "type": "multiple",
 "difficulty": "easy",
 "question": "Which country, not including Japan, has the most people of japanese decent?",
