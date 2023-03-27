@@ -1,0 +1,124 @@
+{
+"results": [
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the nickname of the US state of California?",
+"correct_answer": "Golden State",
+"incorrect_answers": [
+"Sunshine State",
+"Bay State",
+"Treasure State"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+"correct_answer": "Wax sculptures",
+"incorrect_answers": [
+"Designer clothing",
+"Unreleased film reels",
+"Vintage cars"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who is depicted on the US hundred dollar bill?",
+"correct_answer": "Benjamin Franklin",
+"incorrect_answers": [
+"George Washington",
+"Abraham Lincoln",
+"Thomas Jefferson"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of the following card games revolves around numbers and basic math?",
+"correct_answer": "Uno",
+"incorrect_answers": [
+"Go Fish",
+"Twister",
+"Munchkin"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which country, not including Japan, has the most people of japanese decent?",
+"correct_answer": "Brazil",
+"incorrect_answers": [
+"China",
+"South Korea",
+"United States of America"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "When one is &quot;envious&quot;, they are said to be what color?",
+"correct_answer": "Green",
+"incorrect_answers": [
+"Red",
+"Blue",
+"Yellow"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "When someone is cowardly, they are said to have what color belly?",
+"correct_answer": "Yellow",
+"incorrect_answers": [
+"Green",
+"Red",
+"Blue"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Earth is located in which galaxy?",
+"correct_answer": "The Milky Way Galaxy",
+"incorrect_answers": [
+"The Mars Galaxy",
+"The Galaxy Note",
+"The Black Hole"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of the following is not the host of a program on NPR?",
+"correct_answer": "Ben Shapiro",
+"incorrect_answers": [
+"Terry Gross",
+"Ira Glass",
+"Peter Sagal"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+"correct_answer": "Medell&iacute;n",
+"incorrect_answers": [
+"Bogot&aacute;",
+"Quito",
+"Cali"
+]
+}
+]
+}
