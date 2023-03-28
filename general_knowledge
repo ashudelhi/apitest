@@ -241,6 +241,30 @@
 "Biologist",
 "Musician"
 ]
+},
+{
+"category": "Maths",
+"type": "multiple",
+"difficulty": "easy",
+"question": "How many furlongs are there in a mile?",
+"correct_answer": "Eight",
+"incorrect_answers": [
+"Two",
+"Four",
+"Six"
+]
+},
+{
+"category": "Maths",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+"correct_answer": "Model",
+"incorrect_answers": [
+"Professor",
+"Biologist",
+"Musician"
+]
 }
 ]
 }
