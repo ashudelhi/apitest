@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Science",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is Flutter?",
+        "options": [
+          "A Mobile App Development Framework",
+          "A Desktop App Development Framework",
+          "A Web App Development Framework",
+          "A Gaming App Development Framework"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What is Dart?",
+        "options": [
+          "A Mobile App Development Framework",
+          "A Programming Language",
+          "A Web App Development Framework",
+          "A Gaming App Development Framework"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Geography",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+          "Paris",
+          "London",
+          "Berlin",
+          "Madrid"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which country is the largest by area?",
+        "options": [
+          "Russia",
+          "Canada",
+          "China",
+          "USA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Biology",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is a cell?",
+        "options": [
+          "A basic unit of life",
+          "An organelle",
+          "A tissue",
+          "A hormone"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What is the role of DNA?",
+        "options": [
+          "It stores genetic information",
+          "It helps in protein synthesis",
+          "It helps in cell division",
+          "It helps in energy production"
+        ]
+      }
+    ]
+  }
+]
