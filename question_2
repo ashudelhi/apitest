@@ -1,0 +1,16 @@
+{
+"questions": [
+    {
+      "question": "10 + 2 is equal to :-",
+      "options": ["10", "8", "2", "12"],
+      "answer": 3,
+      "category": "Category 2"
+    },
+    {
+      "question": "Who is Ram ?",
+      "options": ["God", "Man", "Animal", "Insects"],
+      "answer": 0,
+      "category": "Category 2"
+    }
+  ]
+}
