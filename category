@@ -2,11 +2,11 @@
   "categories": [
     {
       "name": "Category Ram",
-      "url": "https://example.com/category1.json"
+      "url": "https://ashudelhi.github.io/apitest/question"
     },
     {
       "name": "Category 2",
-      "url": "https://example.com/category2.json"
+      "url": "https://ashudelhi.github.io/apitest/question_2"
     }
   ]
   }
