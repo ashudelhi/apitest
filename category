@@ -1,0 +1,13 @@
+{
+  "categories": [
+    {
+      "name": "Category Ram",
+      "url": "https://example.com/category1.json"
+    },
+    {
+      "name": "Category 2",
+      "url": "https://example.com/category2.json"
+    }
+  ]
+  }
+ 
