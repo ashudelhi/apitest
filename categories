@@ -1,0 +1,12 @@
+{
+"categories": [
+{
+"name": "Category 1",
+"questionsUrl": "https://example.com/api/questions/category1"
+},
+{
+"name": "Category 2",
+"questionsUrl": "https://example.com/api/questions/category2"
+}
+],
+}
