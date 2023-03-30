@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Computer Science",
+    "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg",
     "questions": [
       {
         "id": 1,
@@ -28,6 +29,7 @@
   {
     "id": 2,
     "name": "Biology",
+    "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg",
     "questions": [
       {
         "id": 1,
