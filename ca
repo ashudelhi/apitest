@@ -1,15 +1,34 @@
-[  {    "category": "Entertainment: Video Games",    "type": "multiple",    "difficulty": "hard",    "question": "What was the first video game to feature a secret ending?",    "correct_answer": "Chrono Trigger",    "incorrect_answers": [      "Mega Man X",      "Ecco the Dolphin",      "Final Fantasy"    ]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What does &quot;CSS&quot; stand for?",
-    "correct_answer": "Cascading Style Sheets",
-    "incorrect_answers": [
-      "Computer Style Sheets",
-      "Creative Style Sheets",
-      "Colorful Style Sheets"
-    ]
-  }
-]
+{
+  "categories": [
+    {
+      "name": "Category 1",
+      "questionsUrl": "https://ashudelhi.github.io/apitest/question"
+    },
+    {
+      "name": "Category 2",
+      "questionsUrl": "https://ashudelhi.github.io/apitest/question_2"
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many colors are there in a rainbow ?",
+      "options": ["8", "9", "7", "6"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Five dollars is worth how many nickels ?",
+      "options": ["100", "69", "50", "25"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "10 + 2 is equal to :-",
+      "options": ["10", "8", "2", "12"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is Ram ?",
+      "options": ["God", "Man", "Animal", "Insects"],
+      "correctAnswer": 0
+    }
+  ]
+}
