@@ -13,5 +13,26 @@
     "id": 3,
     "name": "Category 3",
     "image_url": "https://example.com/image3.png"
+  },
+
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "question": "What is question 1?",
+    "answer": "Answer 1"
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "question": "What is question 2?",
+    "answer": "Answer 2"
+  },
+  {
+    "id": 3,
+    "category_id": 2,
+    "question": "What is question 3?",
+    "answer": "Answer 3"
   }
+]
 ]
