@@ -1,56 +1,56 @@
 [
-  {
-    "id": 1,
-    "name": "Computer Science",
-    "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg",
-    "questions": [
-      {
-        "id": 1,
-        "question": "What is Flutter?",
-        "options": [
-          "A Mobile App Development Framework",
-          "A Desktop App Development Framework",
-          "A Web App Development Framework",
-          "A Gaming App Development Framework"
-        ]
-      },
-      {
-        "id": 2,
-        "question": "What is Dart?",
-        "options": [
-          "A Mobile App Development Framework",
-          "A Programming Language",
-          "A Web App Development Framework",
-          "A Gaming App Development Framework"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Biology",
-    "image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg",
-    "questions": [
-      {
-        "id": 1,
-        "question": "What is a cell?",
-        "options": [
-          "A basic unit of life",
-          "An organelle",
-          "A tissue",
-          "A hormone"
-        ]
-      },
-      {
-        "id": 2,
-        "question": "What is the role of DNA?",
-        "options": [
-          "It stores genetic information",
-          "It helps in protein synthesis",
-          "It helps in cell division",
-          "It helps in energy production"
-        ]
-      }
-    ]
-  }
+{
+"id": 1,
+"name": "Computer Science",
+"image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg",
+"questions": [
+{
+"id": 1,
+"question": "What is Flutter?",
+"options": [
+{"option": "A Mobile App Development Framework", "correct": true},
+{"option": "A Desktop App Development Framework", "correct": false},
+{"option": "A Web App Development Framework", "correct": false},
+{"option": "A Gaming App Development Framework", "correct": false}
+]
+},
+{
+"id": 2,
+"question": "What is Dart?",
+"options": [
+{"option": "A Mobile App Development Framework", "correct": false},
+{"option": "A Programming Language", "correct": true},
+{"option": "A Web App Development Framework", "correct": false},
+{"option": "A Gaming App Development Framework", "correct": false}
+]
+}
+]
+},
+{
+"id": 2,
+"name": "Biology",
+"image": "https://www.shutterstock.com/image-vector/happy-new-year-2020-lettering-600w-1440760247.jpg",
+"questions": [
+{
+"id": 1,
+"question": "What is a cell?",
+"options": [
+{"option": "A basic unit of life", "correct": true},
+{"option": "An organelle", "correct": false},
+{"option": "A tissue", "correct": false},
+{"option": "A hormone", "correct": false}
+]
+},
+{
+"id": 2,
+"question": "What is the role of DNA?",
+"options": [
+{"option": "It stores genetic information", "correct": true},
+{"option": "It helps in protein synthesis", "correct": false},
+{"option": "It helps in cell division", "correct": false},
+{"option": "It helps in energy production", "correct": false}
+]
+}
+]
+}
 ]
