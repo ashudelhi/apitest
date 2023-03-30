@@ -2,11 +2,11 @@
 "categories": [
 {
 "name": "Category 1",
-"questionsUrl": "https://example.com/api/questions/category1"
+"questionsUrl": "https://ashudelhi.github.io/apitest/question"
 },
 {
 "name": "Category 2",
-"questionsUrl": "https://example.com/api/questions/category2"
+"questionsUrl": "https://ashudelhi.github.io/apitest/question_2"
 }
 ],
 }
