@@ -1,0 +1,43 @@
+{
+  "response_code": 0,
+  "results": [
+  {
+  "category": "General Knowledge",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "What is the highest mountain in the world?",
+  "correct_answer": "Mount Everest",
+  "incorrect_answers": [
+  "Mount Kilimanjaro",
+  "Mount Rushmore",
+  "Mount Vesuvius"
+  ]
+  },
+  {
+  "category": "Entertainment: Books",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What is the title of Harper Lee's only published novel, released in 1960?",
+  "correct_answer": "To Kill a Mockingbird",
+  "incorrect_answers": [
+  "Go Set a Watchman",
+  "The Catcher in the Rye",
+  "1984"
+  ]
+  },
+  {
+  "category": "Entertainment: Film",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "In what year was the movie 'The Shining' released?",
+  "correct_answer": "1980",
+  "incorrect_answers": [
+  "1977",
+  "1983",
+  "1986"
+  ]
+  }
+  ]
+  }
+  
+  
