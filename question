@@ -3,14 +3,12 @@
     {
       "question": "How many colors are there in a rainbow ?",
       "options": ["8", "9", "7", "6"],
-      "answer": 2,
-      "category": "Category 1"
+      "correctAnswer": 2
     },
     {
       "question": "Five dollars is worth how many nickles ?",
       "options": ["100", "69", "50", "25"],
-      "answer": 0,
-      "category": "Category 1"
+      "correctAnswer": 0
     }
   ]
 }
