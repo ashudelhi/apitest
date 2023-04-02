@@ -41,14 +41,13 @@
   "table": {
     "columns": [
       "Item",
-      "-",
-      "Quantity"
+      "- Quantity"
     ],
     "rows": [
-      ["Apples", "-", 5],
-      ["Bananas", "-", 2],
-      ["Oranges", "-", 3],
-      ["Grapes", "-", 6]
+      ["Apples", - 5],
+      ["Bananas", - 2],
+      ["Oranges", - 3],
+      ["Grapes", - 6]
     ]
   },
   "options": [
